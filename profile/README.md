@@ -1,12 +1,5 @@
-![empbi-v2](https://user-images.githubusercontent.com/25810274/222914568-f5ab09c7-112a-4e96-a551-53f4c80d9bc0.png)
-
-### Sublime's custom image
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
-
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/25810274/222914568-f5ab09c7-112a-4e96-a551-53f4c80d9bc0.png" alt="Empbi"/>
+  <img width="200" src="https://user-images.githubusercontent.com/25810274/222914568-f5ab09c7-112a-4e96-a551-53f4c80d9bc0.png" alt="Empbi"/>
 </p>
 
 We help startups, technology companies, service companies in the digitization of processes and construction of business ideas.
